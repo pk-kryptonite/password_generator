@@ -1,0 +1,50 @@
+/* styles.css */
+.caption-container {
+    text-align: center; /* Center-align the content if desired */
+  }
+  
+  h2 {
+    font-weight: bold;
+    color: #000; /* Black color for the heading */
+    margin-bottom: 10px; /* Adjust the margin as needed */
+  }
+  
+  .caption {
+    font-size: 18px; /* Adjust the font size as needed */
+    color: #555; /* Adjust the color as needed */
+  }
+  
+  .large-font {
+    font-size: 24px; /* Adjust the font size as needed */
+}
+.password-container {
+    position: relative;
+}
+
+.password-text {
+    font-size: 18px; /* Adjust the font size of the "Generated Password" text */
+}
+
+.generated-password {
+    font-size: 24px; /* Adjust the font size of the generated password */
+}
+/* styles.css */
+.password-container {
+
+    margin-bottom: 5%;
+   
+  }
+  
+  .password-text {
+    
+    font-size: 16px;
+    padding: 10px;
+  }
+.rounded-circle{
+    padding: 30%;
+}
+  #password {
+    font-weight: bold;
+    color: #0d9b14; /* Text color */
+  }
+  .form-check-inline {padding: 10px}
