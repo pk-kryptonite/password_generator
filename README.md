@@ -24,6 +24,7 @@ Ensure you have Python installed. You can download it from [python.org](https://
 
 # Navigate to the project directory
 cd password_generator
+```
 
 ## License
 
